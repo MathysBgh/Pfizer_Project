@@ -5,4 +5,4 @@ three objective problems
 
 step 1 : minimize distance: variables constraints & obj. function (LP)
 
-pour la dernière contrainte :
+pour la dernière contrainte : x^2 - 2x + x car x^2 = x car c'est 0 ou 1 
