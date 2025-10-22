@@ -1,0 +1,8 @@
+minimize distance & disruption
+workload for each SR has to be between 0.8 and 1.2
+
+three objective problems
+
+step 1 : minimize distance: variables constraints & obj. function (LP)
+
+pour la dernière contrainte :
