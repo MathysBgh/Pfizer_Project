@@ -12,12 +12,6 @@ The project follows a multi-step optimization approach to balance three competin
 2. **Workload Balancing:** Ensuring a fair distribution of commercial potential across the team.
 3. **Change Management (Relocation):** Minimizing the disruption caused by reassigning sectors to different representatives.
 
-## 🛠 Tech Stack
-- **Language:** Python
-- **Mathematical Modeling:** PuLP / Pyomo
-- **Data Analysis:** Pandas, NumPy, Openpyxl
-- **Visualization:** Matplotlib, Seaborn
-
 ## 📂 Project Structure
 The analysis is divided into three progressive Jupyter Notebooks:
 
@@ -41,8 +35,3 @@ The repository includes several Excel datasets used for the optimization:
 - `distances.xlsx`: Matrix containing travel distances between locations.
 - `data-100x10.xlsx`: Sector details and current representative assignments.
 - `indexValues.xlsx`: Workload and potential metrics for each sector.
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/MathysBgh/Pfizer_Project.git](https://github.com/MathysBgh/Pfizer_Project.git)
