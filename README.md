@@ -21,7 +21,7 @@ The analysis is divided into three progressive Jupyter Notebooks:
 - Primary goal: Minimize the total geographical distance between representatives' base locations and assigned sectors.
 
 ### 🔹 Step 2: Workload Balancing
-- Integration of a "Workload Index" for each sector based on commercial potential.
+- Integration of a "Workload Index" for each sector based on commercial potential. 
 - Constraint implementation to ensure the total workload per representative stays within a specific range of the mean.
 - Introduction of the trade-off between geographical proximity and workload fairness.
 
